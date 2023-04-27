@@ -44,7 +44,8 @@
 4.
 
 5.
-![Uploading 대시보드 1.png…]()
+![대시보드 1](https://user-images.githubusercontent.com/109095108/234736337-f12b1f92-ba81-43c0-a81e-45e6820f9412.png)
+
 
 6.
 ![airbnb_dashboard](https://user-images.githubusercontent.com/109095108/234732652-1ae35886-bb7d-46cd-b7d7-18d4eb5db8b6.png)
