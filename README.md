@@ -5,8 +5,8 @@
 <pre>
 1. 월드컵 우승 횟수 분석 프로젝트
 2. Tripadvisor 기업 사용자 분석 프로젝트
-3. 시장 재고 분석 프로젝트
-4. 장르, 유형별 물품 가격 분석 프로젝트
+3. 세계 코로나 환자 분석 프로젝트
+4. 비디오 게임 수요 및 가격 분석 프로젝트
 5. Airbnb 기업 사용자 분석 프로젝트
 6. 인도 코로나 환자 분석 프로젝트
 </pre> 
@@ -39,8 +39,12 @@
 ![Tripadvisor_dashboard](https://user-images.githubusercontent.com/109095108/234732344-84fbabd4-4ab7-4228-9a07-079b4c9a8bbd.png)
 
 3.
+![COVID-19](https://user-images.githubusercontent.com/109095108/234742575-a7f728dc-11f8-488b-805a-4e772c1b6e52.png)
+
 
 4.
+![Dashboard_Sales](https://user-images.githubusercontent.com/109095108/234739909-243b1681-57bf-4ccb-9748-682cfa4f1165.png)
+
 
 
 5.
