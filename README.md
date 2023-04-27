@@ -7,9 +7,8 @@
 2. Tripadvisor 기업 사용자 분석 프로젝트
 3. 시장 재고 분석 프로젝트
 4. 장르, 유형별 물품 가격 분석 프로젝트
-5. 데이터 직군 급여 분석 프로젝트
-6. Airbnb 기업 사용자 분석 프로젝트
-7. 인도 코로나 환자 분석 프로젝트
+5. Airbnb 기업 사용자 분석 프로젝트
+6. 인도 코로나 환자 분석 프로젝트
 </pre> 
 
 ### 사용 기술
@@ -43,14 +42,11 @@
 
 4.
 
+
 5.
-![대시보드 1](https://user-images.githubusercontent.com/109095108/234736337-f12b1f92-ba81-43c0-a81e-45e6820f9412.png)
-
-
-6.
 ![airbnb_dashboard](https://user-images.githubusercontent.com/109095108/234732652-1ae35886-bb7d-46cd-b7d7-18d4eb5db8b6.png)
 
-7.
+6.
 ![Covid19_India](https://user-images.githubusercontent.com/109095108/234732897-1cd4b9b0-78fd-466b-a6e9-6c3668a0b824.png)
 
 
