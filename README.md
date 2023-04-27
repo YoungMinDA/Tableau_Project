@@ -52,3 +52,10 @@
 ![Covid19_India](https://user-images.githubusercontent.com/109095108/234732897-1cd4b9b0-78fd-466b-a6e9-6c3668a0b824.png)
 
 
+
+
+###### 출저:
+- https://public.tableau
+- DataScience RoadMap Youtube
+
+
