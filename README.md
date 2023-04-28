@@ -33,13 +33,13 @@
 
 
 ### 대시보드
-0.
+-디지니플러스 프로그램 대시보드
 ![대시보드 1](https://user-images.githubusercontent.com/109095108/234779723-8ccaec9e-a22a-4933-9e9c-d813dcc1add8.png)
 
-1.
+- 월드컵 대시보드
 ![대시보드 1](https://user-images.githubusercontent.com/109095108/234732614-57f040ab-24ad-4779-bb03-0ed83a14b88c.png)
 
-2.
+-Tripadvisor 사용자 대시보드
 ![Tripadvisor_dashboard](https://user-images.githubusercontent.com/109095108/234732344-84fbabd4-4ab7-4228-9a07-079b4c9a8bbd.png)
 
 3.
@@ -58,10 +58,5 @@
 ![Covid19_India](https://user-images.githubusercontent.com/109095108/234732897-1cd4b9b0-78fd-466b-a6e9-6c3668a0b824.png)
 
 
-
-
-###### 출저:
-- https://public.tableau
-- DataScience RoadMap Youtube(월드컵~인도코로나환자 분석)
 
 
