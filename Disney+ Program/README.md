@@ -23,4 +23,6 @@ Tableau
 
 
 
-##### 데이터 출저: https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
+#### 출저: 
+데이터셋 : 캐글, https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
+로고 : 네이버 이미지, https://search.naver.com/search.naver?where=image&sm=tab_jum&query=%EB%94%94%EC%A7%80%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4
