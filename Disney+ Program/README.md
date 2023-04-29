@@ -1,10 +1,16 @@
 #  디지니플러스 프로그램 대시보드
 
-### 개요
+### - 개요
+
+### - 데이터셋 소개
+
+### - 사용된 기술
+
+### - 결과
 
 
 
 
-### 월드컵 결과 분석 대시보드
 
-##### 대시보드 및 데이터 출저: DataScienceRoadMap Youtube
+
+##### 데이터 출저: https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
