@@ -7,7 +7,7 @@
 
 ### 데이터셋 소개
 
-### 월드컵 결과 분석 대시보드
+###  분석 대시보드
 ![Dashboard_Sales](https://user-images.githubusercontent.com/109095108/235032491-767506d1-fc7d-424f-9071-ea144631e160.png)
 
 
