@@ -20,6 +20,7 @@
 - SQL
 - Excel
 - Tableau
+- Big Query
 
 ### 태블로를 사용하며 배운점
 
