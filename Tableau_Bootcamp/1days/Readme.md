@@ -1,1 +1,5 @@
-
+![카테고리 별 평균 칼로리 카페인](https://github.com/YoungMinSW/Tableau_Project/assets/109095108/8f4dfa58-a033-49d3-9521-a88ad5ee0821)
+![메뉴명 별 칼로리 카페인](https://github.com/YoungMinSW/Tableau_Project/assets/109095108/5da8d246-5cdc-4369-9b77-3509c344bc1a)
+![시군구 별 스타벅스 매장 수](https://github.com/YoungMinSW/Tableau_Project/assets/109095108/18fd38e4-d4e8-435a-b678-9f9fa977ba60)
+![당분 함유량과 칼로리의 상관관계](https://github.com/YoungMinSW/Tableau_Project/assets/109095108/56af39b5-2fc1-4e51-b76a-4ac287396a3e)
+![대시보드 ](https://github.com/YoungMinSW/Tableau_Project/assets/109095108/f643346a-9b3a-4c25-a277-36593ad1db9e)
