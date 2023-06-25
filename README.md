@@ -38,7 +38,8 @@
 
 ### 대시보드
 -브레이킹 배드 드라마 대시보드
-![Breaking Bad dashboard](https://github.com/YoungMinSW/Tableau_Project/assets/109095108/968464f3-8038-4d4c-bcb2-be43eb2ec4dc)
+![브레이킹 배드 대시보드](https://github.com/YoungMinSW/Tableau_Project/assets/109095108/2452e5db-e26f-4fe3-a191-1592eaf9de8b)
+
 
 -미국 자전거 시장 분석
 ![미국 자전거 대시보드](https://user-images.githubusercontent.com/109095108/235086297-d9bac66c-3d28-4d09-a799-96a4cb5c389f.png)
