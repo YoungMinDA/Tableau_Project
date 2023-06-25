@@ -23,6 +23,7 @@
 - Tableau
 - Azure Data Studio
 - Google Cloud
+- Google Sheets
 - Big Query
 
 ### 태블로를 사용하며 배운점
