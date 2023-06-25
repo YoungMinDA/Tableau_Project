@@ -21,6 +21,8 @@
 - SQL
 - Excel
 - Tableau
+- Azure Data Studio
+- Google Cloud
 - Big Query
 
 ### 태블로를 사용하며 배운점
