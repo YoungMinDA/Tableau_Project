@@ -21,9 +21,9 @@
 - SQL
 - Python
 - Excel
+- Big Query
 - Google Cloud
 - Google Sheets
-- Big Query
 - Azure Data Studio
 
 ### 태블로를 사용하며 배운점
