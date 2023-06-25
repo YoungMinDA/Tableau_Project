@@ -17,14 +17,14 @@
 </pre> 
 
 ### 사용 기술
-- Python
-- SQL
-- Excel
 - Tableau
-- Azure Data Studio
+- SQL
+- Python
+- Excel
 - Google Cloud
 - Google Sheets
 - Big Query
+- Azure Data Studio
 
 ### 태블로를 사용하며 배운점
 
