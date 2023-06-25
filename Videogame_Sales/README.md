@@ -3,7 +3,7 @@
 ### 개요
 - 태블로의 기초를 다지기 위해 DataScienceRoadMap Youtube를 참고하여 제작한 대시보드
 
-### 기술
+### 사용된 기술
 - Tableau
 
 ### 결과
