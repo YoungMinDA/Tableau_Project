@@ -3,6 +3,7 @@
 다양한 종류의 데이터를 갖고 프로젝트를 해결하여 Tableau를 통한 데이터 분석과 시각화에 대해 학습
 
 <pre>
+- 브레이킹 배드 분석 프로젝트
 - 미국 자전거 시장 분석
 - 디지니플러스 프로그램 분석 프로젝트
 - 월드컵 우승 횟수 분석 프로젝트
@@ -11,7 +12,7 @@
 - 비디오 게임 수요 및 가격 분석 프로젝트
 - Airbnb 기업 뉴욕시 사용자 분석 프로젝트
 - 인도 코로나 환자 분석 프로젝트
-- 브레이킹 배드 분석 프로젝트
+
 
 </pre> 
 
@@ -36,6 +37,9 @@
 
 
 ### 대시보드
+-브레이킹 배드 드라마 대시보드
+![Breaking Bad dashboard](https://github.com/YoungMinSW/Tableau_Project/assets/109095108/968464f3-8038-4d4c-bcb2-be43eb2ec4dc)
+
 -미국 자전거 시장 분석
 ![미국 자전거 대시보드](https://user-images.githubusercontent.com/109095108/235086297-d9bac66c-3d28-4d09-a799-96a4cb5c389f.png)
 
@@ -61,8 +65,7 @@
 -인도 코로나 환자 현황 대시보드
 ![Covid19_India](https://user-images.githubusercontent.com/109095108/234732897-1cd4b9b0-78fd-466b-a6e9-6c3668a0b824.png)
 
--브레이킹 배드 드라마 대시보드
-![Uploading Breaking Bad dashboard.png…]()
+
 
 
 
