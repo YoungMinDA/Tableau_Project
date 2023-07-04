@@ -70,6 +70,13 @@
 
 
 
+### 태블로 신병훈련소
+- Slack 페이지
+![스크린샷 2023-07-04 오후 11 28 31](https://github.com/YoungMinSW/Tableau_Project/assets/109095108/73e1ec8d-ade2-4668-bdfd-b4ffa2ab8cde)
+
+
+
+
 
 
 
