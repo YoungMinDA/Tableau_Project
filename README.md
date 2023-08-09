@@ -23,7 +23,6 @@
 - SQL
 - Python
 - Excel
-- Big Query
 - Google Cloud
 - Google Sheets
 - Azure Data Studio
