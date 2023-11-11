@@ -15,9 +15,11 @@
 - 인도 코로나 환자 분석 프로젝트
 - Amazon 주문량 분석 프로젝트
 </pre> 
+
 <pre>
 - 태블로 신병훈련소 19기: Tableau_Bootcamp 
 </pre> 
+
 ### 사용 기술
 - Tableau
 - SQL
