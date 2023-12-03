@@ -22,7 +22,7 @@
 
 ### 사용 기술
 - Tableau
-- SQL
+- SQL(MYSQL & MSSQL)
 - Python
 - Excel
 - Google Cloud
