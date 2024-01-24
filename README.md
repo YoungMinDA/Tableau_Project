@@ -18,7 +18,6 @@
 <pre>
 - 태블로 신병훈련소 19기: Tableau_Bootcamp 
 </pre> 
-
 ### 사용 기술
 - Tableau
 - SQL(MYSQL & MSSQL)
